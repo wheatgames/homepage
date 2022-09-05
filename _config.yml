@@ -13,18 +13,18 @@ sass:
 
 # Main Headline, name required, subtitle optional
 name: Wheat Games
-#subtitle:
-subtitle: Frontend Developer
+subtitle:
+#subtitle: Frontend Developer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Fuse Core
+title: Wheat Games
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description: Wheat Games home page.
+    keywords: wheat games
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
